@@ -160,6 +160,9 @@ When the Chaos Points go past 80, the countdown to the Apocalypse would begin. W
 <!>[Oldest Good is glaring at you.]
 <!>[Oldest Evil is glaring at you.]
 It was the game where the first one to get scared and back off would become the loser.
-<@>[Which one will be faster, us dying or all of you getting annihilated by the Apocalypse Dragon? Aren't you curious? I unsheathed 'Unbroken Faith' and smiled. I'm really curious, actually.]
+<@>[Which one will be faster, us dying or all of you getting annihilated by the Apocalypse Dragon? Aren't you curious? 
+I unsheathed 'Unbroken Faith' and smiled.
+<@>[I'm really curious, actually.]
+
 
 ***
